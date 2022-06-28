@@ -23,4 +23,4 @@ Tambahkan kode berikut di dalam Routes.php
 ![p](gambar/4.PNG)
 
 Selanjutnya coba akses route yang telah dibuat dengan mengakses alamat url http://localhost:8080/about
-![p](gambar/5.PNG)
+![p](gambar/8.PNG)
