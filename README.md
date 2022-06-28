@@ -68,9 +68,13 @@ File app/view/template/footer.php
 
 ![p](gambar/18.PNG)
 
-Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
+Kemudian ubah file app/view/about.php seperti berikut.
 
 ![p](gambar/19.PNG)
+
+Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
+
+![p](gambar/20.PNG)
 
 ## Lab 11 (Lanjutan)
 
