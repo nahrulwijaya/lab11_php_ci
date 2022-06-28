@@ -24,3 +24,7 @@ Tambahkan kode berikut di dalam Routes.php
 
 Selanjutnya coba akses route yang telah dibuat dengan mengakses alamat url http://localhost:8080/about
 ![p](gambar/8.PNG)
+Ketika diakses akan mucul tampilan error 404 file not found, itu artinya file/page tersebut tidak ada. Untuk dapat mengakses halaman tersebut, harus dibuat terlebih dahulu Contoller yang sesuai dengan routing yang dibuat yaitu Contoller Page.
+
+![p](gambar/6.PNG)
+
