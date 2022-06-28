@@ -34,6 +34,14 @@ Selanjutnya refresh Kembali browser, maka akan ditampilkan hasilnya yaitu halama
 
 Secara default fitur autoroute pada Codeiginiter sudah aktif. Untuk mengubah status autoroute dapat mengubah nilai variabelnya. Untuk menonaktifkan ubah nilai true menjadi false.
 ![p](gambar/10.PNG)
+Tambahkan method baru pada Controller Page seperti berikut.
+![p](gambar/11.PNG)
+
+Method ini belum ada pada routing, sehingga cara mengaksesnya dengan menggunakan alamat: http://localhost:8080/page/tos
+
+![p](gambar/12.PNG)
+
+
 
 
 
