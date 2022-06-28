@@ -30,5 +30,11 @@ Ketika diakses akan mucul tampilan error 404 file not found, itu artinya file/pa
 Selanjutnya refresh Kembali browser, maka akan ditampilkan hasilnya yaitu halaman sudah dapat diakses.
 ![p](gambar/9.PNG)
 
+3. Auto Routing
+
+Secara default fitur autoroute pada Codeiginiter sudah aktif. Untuk mengubah status autoroute dapat mengubah nilai variabelnya. Untuk menonaktifkan ubah nilai true menjadi false.
+![p](gambar/10.PNG)
+
+
 
 
