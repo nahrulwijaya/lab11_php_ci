@@ -55,6 +55,23 @@ Kemudian lakukan refresh pada halaman tersebut.
 
 ![p](gambar/15.PNG)
 
+5. Membuat Layout Web dengan CSS
+Buat file css pada direktori public dengan nama style.css (copy file dari praktikum lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
 
+![p](gambar/16.PNG)
+
+Kemudian buat folder template pada direktori view kemudian buat file header.php dan footer.php
+
+![p](gambar/17.PNG)
+
+File app/view/template/footer.php
+
+![p](gambar/18.PNG)
+
+Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
+
+![p](gambar/19.PNG)
+
+## Lab 11 (Lanjutan)
 
 
