@@ -78,4 +78,8 @@ Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
 
 ## Lab 11 (Lanjutan)
 
+1. Membuat Database: Artikel Data Studi Kasus
+
+![p](gambar/21.PNG)
+
 
