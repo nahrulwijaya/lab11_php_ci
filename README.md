@@ -41,7 +41,19 @@ Method ini belum ada pada routing, sehingga cara mengaksesnya dengan menggunakan
 
 ![p](gambar/12.PNG)
 
+4. Membuat View
 
+Selanjutnya adalam membuat view untuk tampilan web agar lebih menarik. Buat file baru dengan nama about.php pada direktori view (app/view/about.php) kemudian isi kodenya seperti berikut.
+
+![p](gambar/13.PNG)
+
+Ubah method about pada class Controller Page menjadi seperti berikut:
+
+![p](gambar/14.PNG.PNG.PNG)
+
+Kemudian lakukan refresh pada halaman tersebut.
+
+![p](gambar/15.PNG)
 
 
 
