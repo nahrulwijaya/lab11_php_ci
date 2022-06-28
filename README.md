@@ -17,3 +17,10 @@ Untuk melakukan instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu c
 
 • Buka browser dengan alamat http://localhost/lab11_ci/ci4/public/
 ![p](gambar/1.PNG)
+
+2. Membuat Route Baru.
+Tambahkan kode berikut di dalam Routes.php
+![p](gambar/4.PNG)
+
+Selanjutnya coba akses route yang telah dibuat dengan mengakses alamat url http://localhost:8080/about
+![p](gambar/5.PNG)
