@@ -147,10 +147,6 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit().
 
 ![p](gambar/34.PNG)
 
-## Hasilnya
-
-![p](gambar/35.PNG)
-
 Menghapus Data
 Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
