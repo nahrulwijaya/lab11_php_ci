@@ -110,6 +110,7 @@ baru dengan nama index.php.
 ![p](gambar/26.PNG)
 
 ## Hasilnya
+
 ![p](gambar/27.PNG)
 
 Membuat View
@@ -132,6 +133,32 @@ Controller Artikel dengan nama admin_index().
 
 ![p](gambar/31.PNG)
 
+Menambah Data Artikel
+Tambahkan fungsi/method baru pada Controller Artikel dengan nama add().
+
+![p](gambar/32.PNG)
+
+## Hasilnya
+
+![p](gambar/33.PNG)
+
+Mengubah Data
+Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit().
+
+![p](gambar/34.PNG)
+
+## Hasilnya
+
+![p](gambar/35.PNG)
+
+Menghapus Data
+Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
+
+![p](gambar/36.PNG)
+
+## Hasilnya
+
+![p](gambar/37.PNG)
 
 
 
