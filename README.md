@@ -156,5 +156,19 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
 ![p](gambar/37.PNG)
 
+## LAB 13
 
+Membuat Tabel: User Login
+![P](gambar/35.PNG)
+
+Membuat Database Seeder
+Database seeder digunakan untuk membuat data dummy. Untuk keperluan ujicoba modul
+login, kita perlu memasukkan data user dan password kedaalam database. Untuk itu buat
+database seeder untuk tabel user. Buka CLI, kemudian tulis perintah berikut:
+
+## Hasilnya
+
+![p](gambar/37.PNG)
+
+![p](gambar/39.PNG)
 
