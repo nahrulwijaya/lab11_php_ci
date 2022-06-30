@@ -172,3 +172,33 @@ database seeder untuk tabel user. Buka CLI, kemudian tulis perintah berikut:
 
 ![p](gambar/39.PNG)
 
+## LAB 14
+
+Pada Codeigniter 4, fungsi pagination sudah tersedia pada Library sehingga cukup
+mudah menggunakannya.
+Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi
+kode pada method admin_index seperti berikut.
+
+![P](gambar/40.PNG)
+
+## Hasilnya
+
+![p](gambar/41.PNG)
+
+Kemudian buka kembali file views/artikel/admin_index.php dan tambahkan form
+pencarian sebelum deklarasi tabel seperti berikut:
+
+![p](gambar/42.PNG)
+
+## Hasilnya
+
+![p](gambar/43.PNG)
+
+Kemudian pada file views/artikel/form_add.php tambahkan field input file seperti
+berikut.
+
+![p](gambar/44.PNG)
+
+## Hasilnya
+
+![p](gambar/45.PNG)
