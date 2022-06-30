@@ -76,10 +76,62 @@ Selanjutnya refresh tampilan pada alamat http://localhost:8080/about
 
 ![p](gambar/20.PNG)
 
-## Lab 11 (Lanjutan)
+## Lab 12 (Lanjutan)
 
 1. Membuat Database: Artikel Data Studi Kasus
 
 ![p](gambar/21.PNG)
+
+Setelah database berhasil dibuat. Selanjutnya proses pembuatan tabel pada database tersebut. Pembuatannya sama dengan sebelumnya, kalian hanya perlu menekan tombol MySQL pada Database sebelumnya kemudian masukan kode berikut:
+
+![p](gambar/22.PNG)
+
+## KONFIGURASI KONEKSI DATABASE
+
+Konfigurasi dapat dilakukan dengan dua cara. Pertama, pada dua file app/config/database.php atau yang kedua menggunakan file .env seperti yang akan saya gunakan dengan menghapus tanda # pada bagian database seperti dibawah.
+
+![p](gambar/22.PNG)
+
+Membuat View
+Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file
+baru dengan nama index.php.
+
+![p](gambar/23.PNG)
+
+![p](gambar/24.PNG)
+
+## Hasilnya
+
+![p](gambar/25.PNG)
+
+Membuat View
+Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file
+baru dengan nama index.php.
+![p](gambar/26.PNG)
+
+## Hasilnya
+![p](gambar/27.PNG)
+
+Membuat View
+Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file
+baru dengan nama index.php.
+
+![p](gambar/28.PNG)
+
+## Hasilnya
+
+![p](gambar/29.PNG)
+
+Membuat Menu Admin
+Menu admin adalah untuk proses CRUD data artikel. Buat method baru pada
+Controller Artikel dengan nama admin_index().
+
+![p](gambar/30.PNG)
+
+## Hasilnya
+
+![p](gambar/31.PNG)
+
+
 
 
